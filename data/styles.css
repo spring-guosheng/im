@@ -7,16 +7,7 @@
   text-align:center;
   line-height:normal;
 }
-.box_2 {
-}
-.box_3 {
-}
-._形状 {
-}
-.image {
-}
-.primary_button {
-  color:#FFFFFF;
+._图片 {
 }
 ._一级标题 {
   font-family:'Arial Normal', 'Arial';
@@ -59,66 +50,91 @@
   font-size:10px;
   text-align:left;
 }
+._文本段落 {
+  text-align:left;
+}
+._形状 {
+  font-size:13px;
+  color:#000000;
+}
+._流程形状 {
+}
+._连接线 {
+}
+._形状1 {
+}
+.box_1 {
+}
+.box_2 {
+}
+.placeholder {
+}
+.button {
+}
+.primary_button {
+  color:#FFFFFF;
+}
 .label {
   font-size:14px;
   text-align:left;
 }
-._文本段落 {
+.text_field {
+  color:#000000;
   text-align:left;
 }
-._流程形状 {
-}
-._图片 {
-  color:#000000;
-}
-.box_1 {
-}
-.box_21 {
-}
-.ellipse {
-}
-._默认样式 {
-}
-.icon {
-}
-._形状1 {
-  font-size:13px;
-  color:#000000;
+.image {
 }
 .line {
 }
-.tree_node {
+.ellipse {
+}
+.radio_button {
   text-align:left;
 }
-.menu_item {
+.table_cell {
 }
-._文本框 {
-  color:#000000;
+.checkbox {
   text-align:left;
 }
-.paragraph {
-  text-align:left;
+._默认样式 {
 }
-.heading_3 {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:bold;
-  font-style:normal;
-  font-size:18px;
-  text-align:left;
+._表格 {
 }
-.refs-chart-data {
-  font-family:'Arial Normal', 'Arial';
-  font-weight:400;
-  font-style:normal;
+._文本链接 {
+  color:#0000FF;
 }
-._默认样式1 {
+._鼠标悬停文本链接时 {
 }
-.box_11 {
+._鼠标按下文本链接时 {
 }
 ._文本段落1 {
   text-align:left;
 }
-.text_field {
+._形状2 {
+  font-family:'微软雅黑';
+  font-weight:400;
+  font-style:normal;
+  color:#282828;
+}
+.icon {
+}
+.box_3 {
+}
+._图片1 {
   color:#000000;
+}
+._文本段落2 {
+  text-align:left;
+}
+.box_31 {
+}
+._单选按钮 {
+  text-align:left;
+}
+.box_11 {
+}
+._默认样式1 {
+}
+._文本段落3 {
   text-align:left;
 }
