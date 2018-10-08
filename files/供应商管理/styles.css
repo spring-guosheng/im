@@ -12,7 +12,7 @@
   position:absolute;
   z-index:0;
 }
-#u1129_img {
+#u1128_img {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -20,7 +20,7 @@
   width:1090px;
   height:378px;
 }
-#u1129 {
+#u1128 {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -28,7 +28,7 @@
   width:1090px;
   height:378px;
 }
-#u1129_text {
+#u1128_text {
   border-width:0px;
   position:absolute;
   left:0px;
@@ -37,12 +37,43 @@
   visibility:hidden;
   word-wrap:break-word;
 }
-#u1130_div {
+#u1129_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
   width:61px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1129 {
+  border-width:0px;
+  position:absolute;
+  left:574px;
+  top:48px;
+  width:61px;
+  height:16px;
+}
+#u1129_text {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:61px;
+  white-space:nowrap;
+}
+#u1130_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:57px;
   height:16px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -55,9 +86,9 @@
 #u1130 {
   border-width:0px;
   position:absolute;
-  left:574px;
-  top:48px;
-  width:61px;
+  left:477px;
+  top:109px;
+  width:57px;
   height:16px;
 }
 #u1130_text {
@@ -65,41 +96,10 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:61px;
-  white-space:nowrap;
-}
-#u1131_div {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
   width:57px;
-  height:16px;
-  background:inherit;
-  background-color:rgba(255, 255, 255, 0);
-  border:none;
-  border-radius:0px;
-  -moz-box-shadow:none;
-  -webkit-box-shadow:none;
-  box-shadow:none;
+  white-space:nowrap;
 }
 #u1131 {
-  border-width:0px;
-  position:absolute;
-  left:477px;
-  top:109px;
-  width:57px;
-  height:16px;
-}
-#u1131_text {
-  border-width:0px;
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:57px;
-  white-space:nowrap;
-}
-#u1132 {
   border-width:0px;
   position:absolute;
   left:645px;
@@ -107,7 +107,7 @@
   width:300px;
   height:25px;
 }
-#u1132_input {
+#u1131_input {
   position:absolute;
   left:0px;
   top:0px;
